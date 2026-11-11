@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Python virtual environments
+.venv/
+venv/
+
+# Trained models
+*.pth
+*.pt
+
+# Datasets and outputs
+data/
+outputs/
+
+# Environment variables
+.env
